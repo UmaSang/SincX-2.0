@@ -1,0 +1,13 @@
+2024-10-01 [main] INFO  testCases.LoginDDT_two - valid email
+2024-10-01 [main] INFO  testCases.LoginDDT_two - invalid email
+2024-10-01 [main] INFO  testCases.LoginDDT_two - invalid pwd
+2024-10-01 [main] INFO  testCases.LoginDDT_two - valid domain
+2024-10-01 [main] INFO  testCases.LoginDDT_two - allvalid
+2024-10-01 [main] INFO  testCases.LoginDDT_two - valid domain
+2024-10-01 [main] INFO  testCases.LoginDDT_two - allvalid
+2024-10-01 [main] INFO  testCases.LoginDDT_two - invalid domain
+2024-10-01 [main] INFO  testCases.LoginDDT_two - valid email
+2024-10-02 [main] INFO  testCases.LoginDDT_two - valid domain
+2024-10-02 [main] INFO  testCases.LoginDDT_two - allvalid
+2024-10-02 [main] INFO  testCases.LoginDDT_two - invalid domain
+2024-10-02 [main] INFO  testCases.LoginDDT_two - valid email
